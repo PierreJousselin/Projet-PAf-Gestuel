@@ -3,7 +3,7 @@ import os
 
 # Chemin vers le fichier exécutable d'OpenPose
 openpose_executable = r"C://Users//Pierre//Documents//PAF//openpose//bin//OpenPoseDemo.exe"
-os.chdir("C://Users//Pierre//Documents//PAF//openpose")
+os.chdir("C://Users//Pierre//Documents//PAF//openpose") 
 
 # Arguments de la commande
 arguments = [
